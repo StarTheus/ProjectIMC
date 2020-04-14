@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/01 23:15:22.000.104,=E:\Unit1.pas</Transaction>
+    <Transaction>2020/04/07 23:27:39.000.824,=E:\Unit1.pas</Transaction>
+    <Transaction>2020/04/07 23:32:55.000.898,C:\Users\guilh\Desktop\Projetos\Imc\uFrmPrincipal.dfm=E:\Unit1.dfm</Transaction>
+    <Transaction>2020/04/07 23:32:55.000.898,C:\Users\guilh\Desktop\Projetos\Imc\uFrmPrincipal.pas=E:\Unit1.pas</Transaction>
+    <Transaction>2020/04/07 23:33:05.000.944,C:\Users\guilh\Desktop\Projetos\Imc\ProjetoImc.dproj=E:\Project1.dproj</Transaction>
+    <Transaction>2020/04/07 23:35:36.000.452,=C:\Users\guilh\Desktop\Projetos\Imc\Unit2.pas</Transaction>
+    <Transaction>2020/04/07 23:35:52.000.761,C:\Users\guilh\Desktop\Projetos\Imc\uFrmResultado.dfm=C:\Users\guilh\Desktop\Projetos\Imc\Unit2.dfm</Transaction>
+    <Transaction>2020/04/07 23:35:52.000.761,C:\Users\guilh\Desktop\Projetos\Imc\uFrmResultado.pas=C:\Users\guilh\Desktop\Projetos\Imc\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,60 @@
+object Resultado: TResultado
+  Left = 0
+  Top = 0
+  ClientHeight = 295
+  ClientWidth = 381
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 381
+    Height = 295
+    Align = alClient
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 40
+      Top = 101
+      Width = 40
+      Height = 13
+      Caption = 'Seu IMC'
+    end
+    object EditResultado: TEdit
+      Left = 40
+      Top = 120
+      Width = 121
+      Height = 21
+      TabOrder = 0
+    end
+    object PResultado: TPanel
+      Left = 1
+      Top = 200
+      Width = 379
+      Height = 94
+      Align = alBottom
+      Color = clWhite
+      ParentBackground = False
+      TabOrder = 1
+      object LblResultado: TLabel
+        Left = 1
+        Top = 1
+        Width = 377
+        Height = 92
+        Align = alClient
+        Color = clBtnFace
+        ParentColor = False
+        ExplicitLeft = 112
+        ExplicitTop = 33
+        ExplicitWidth = 130
+        ExplicitHeight = 37
+      end
+    end
+  end
+end
